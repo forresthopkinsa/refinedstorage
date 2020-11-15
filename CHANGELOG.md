@@ -1,5 +1,11 @@
 # Refined Storage Changelog
 
+### 1.6.16.h20a
+
+- **Not an official build**
+- Patch version using mcpower's JEI fix
+- Compiled for Hiraeth 2020 modpack
+
 ### 1.6.16
 - Updated Russian translation (Bytegm)
 - Fixed erroring controller tile entity (ian-rampage)
